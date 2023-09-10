@@ -1,0 +1,9 @@
+*.csv
+*.html
+*.js
+*.png
+*.jpg
+*.exe
+data\
+src\
+process_data\
